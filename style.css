@@ -1,0 +1,28 @@
+img {
+	size: 50%;
+	max-height: 200px;
+	max-width: 50%;
+}
+p {
+	color: #FFFFFF;
+	font-family: 'Fascinate', cursive;
+	font-size: 50px;
+}
+.center {
+  margin: auto;
+  width: 50%;
+  padding: 10px;
+}
+
+.one {
+	opacity: .5;
+}
+
+.two {
+	opacity: .5;
+}
+
+
+.three {
+	opacity: .5;
+}
